@@ -1,0 +1,13 @@
+Id_Cliente;Nome_Cliente;Cep;Valor_Compra;Data_Compra;Status_Compra;Cidade;Estado;Logradouro
+101;Ana Silva;65066620;150.5;2026-01-10;Compra-Baixa;São Luís;Maranhão;Conjunto Primavera
+102;Carlos Eduardo;01310100;299.9;2026-10-05;Compra-Baixa;São Paulo;São Paulo;Avenida Paulista
+103;Mariana Costa;20040002;89.0;2026-12-10;Compra-Baixa;Rio de Janeiro;Rio de Janeiro;Avenida Rio Branco
+104;Sem-Dados;30130110;450.0;2026-10-15;Compra-Alta;Belo Horizonte;Minas Gerais;Alameda Ezequiel Dias
+105;Pedro Henrique;65075441;0.0;2026-10-18;Compra-Baixa;São Luís;Maranhão;Avenida Coronel Colares Moreira
+106;Lucas Santos;40020210;1200.0;2026-10-20;Compra-Alta;Sem-Dados;Sem-Dados;Sem-Dados
+107;Fernanda Lima;80010000;75.25;2026-10-22;Compra-Baixa;Curitiba;Paraná;Rua José Loureiro
+108;João Pedro;65010120;310.4;2026-10-25;Compra-Baixa;São Luís;Maranhão;Rua da Cruz
+109;Beatriz Souza;60060440;540.0;2026-10-28;Compra-Alta;Fortaleza;Ceará;Avenida Almirante Barroso
+110;Rafael Oliveira;99999999;199.99;2026-10-30;Compra-Baixa;Sem-Dados;Sem-Dados;Sem-Dados
+111;Juliana Mendes;69005010;85.5;2026-11-02;Compra-Baixa;Manaus;Amazonas;Rua Barão de São Domingos
+112;Sem-Dados;70040010;620.0;2026-05-11;Compra-Alta;Brasília;Distrito Federal;SBN Quadra 1
